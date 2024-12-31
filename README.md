@@ -1,0 +1,6 @@
+# 百家利金融众筹平台自由宝源码众筹金矿复利复投源码
+
+百家利金融众筹平台自由宝源码众筹金矿复利复投源码介绍说明<br>一、会员静态：example.com；入金后自动转换成筹码（1美金1个筹码），玩家之间可自由互转，分红也是筹码，可交易，可互转，可复投。example.com**的盈利的80%进行分红，20%为公司盈利收益，example.com%-8%之间；example.com，次日开始分红，分红的筹码可互转，可在交易大厅挂售（手续费5%），可提现（手续费10%）。example.com，也可在交易大厅抢购；example.com%筹码的本金，次月的21号方可释放。剩余50%次月可在申请，不享受年分红。example.com，提现额度为100筹码的倍数，手续费10%。二、市场动态：example.com：直推会员入金金额的8%，复投算新业绩；example.com：（1）代理级别拿团队3代总分红的5%，（2）铂金级别团队考核2个区总业绩达到3万筹码，两个区业绩分别在1万美（3）金以上，拿团队7代总分红的10%，15代总分红的1%；（4）翡翠级别团队达到2个铂金级别总业绩6万筹码，拿团队9代总分红的15%，21代总分红的1%（5）**级别团队达到2个翡翠级别总业绩15万筹码，拿团队9代总分红20%；无限代总分红的1%example.com，直推奖秒结算，业绩奖日结周发60%，年分红40%。 <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/W58Zs" style="color: red;">https://mega-file.org/W58Zs</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
